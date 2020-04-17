@@ -1,0 +1,9 @@
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif-theme
+	url = git@github.com:JugglerX/hugo-serif-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/4c70r/4c70r.github.io
+[submodule "themes/academia-hugo"]
+	path = themes/academia-hugo
+	url = git@github.com:themefisher/academia-hugo.git
